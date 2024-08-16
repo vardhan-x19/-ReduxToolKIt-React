@@ -1,0 +1,15 @@
+.text{
+    width: 100px;
+    border-radius: 10px;
+}
+.controls{
+    margin-top: 10px;
+}
+.Container{
+    padding-block: 30px;
+    width: 60vw;
+    border: 2px solid rgb(133, 102, 102);
+    margin-block: 15vh;
+    margin-inline: auto;
+    border-radius: 10px;
+}
